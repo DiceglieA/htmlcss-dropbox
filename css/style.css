@@ -3,3 +3,61 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    background-color: #b4d0e7;
+    width: 100%;
+}
+
+ul {
+ list-style: none;
+}
+
+
+.flex {
+    display: flex;
+}
+
+.menu-nav {
+    justify-content: space-between;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    background-color: white;
+}
+
+.selection {
+    align-items: center;
+    
+}
+
+header li {
+    padding: 1rem;
+}
+
+.btn {
+    background-color: #66FF;
+    padding: 0.3rem 0.5rem;
+    margin-right: 0.5rem;
+    color: white;
+
+}
+
+.header-container {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+
+}
+
+.intro {
+    flex-basis: 30%;
+    
+}
+
+.img-head {
+    width: 80%;
+
+}
+
+
