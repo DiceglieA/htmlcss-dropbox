@@ -52,13 +52,17 @@ h1 {
 .header-container {
     max-width: 70%;
     margin: auto;
+    position: relative;
     
 
 }
 
 .img-top {
     width: 650px;
+    margin-bottom: -3rem;
 }
+
+
 
 .text {
     padding-bottom: 2.5rem;
@@ -69,9 +73,11 @@ h1 {
     padding-top: 2.5rem;
 }
 
-.arrow.down {
-    width: 1.5rem;
+.freccia {
+    font-size: 2rem;
     color: black;
+    position: absolute;
+    bottom: 0;
     
 }
 
