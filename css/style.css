@@ -88,13 +88,35 @@ a {
 
 /* fine header  */
 
-.container-card {
+.container-plan {
     max-width: 60%;
     margin: auto;
     padding-top: 5rem;
+    
 }
 
 .billing {
     padding-top: 2.5rem;
     font-size: 0.8rem;
+}
+
+
+
+.card {
+   flex-basis: 31.5%;
+   gap: 2rem;
+   margin-top: 2.5rem;
+  
+}
+
+
+.icon  {
+    border: #b4d0e7 solid 0.2rem;
+    border-bottom: none;
+    text-align: center;
+}
+
+.plan1 {
+    border: #b4d0e7 solid 0.2rem;
+    padding: 1rem;
 }
