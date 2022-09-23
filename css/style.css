@@ -103,9 +103,11 @@ a {
 
 
 .card {
-   flex-basis: 31.5%;
+   /* flex-basis: 31.5%; */
    gap: 2rem;
    margin-top: 2.5rem;
+   
+
   
 }
 
@@ -116,7 +118,13 @@ a {
     text-align: center;
 }
 
-.plan1 {
+.plan {
     border: #b4d0e7 solid 0.2rem;
     padding: 1rem;
+}
+
+.container-card {
+    width: 100%;
+    
+
 }
