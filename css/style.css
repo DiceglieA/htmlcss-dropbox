@@ -85,3 +85,16 @@ a {
     text-decoration: none;
     color: black;
 }
+
+/* fine header  */
+
+.container-card {
+    max-width: 60%;
+    margin: auto;
+    padding-top: 5rem;
+}
+
+.billing {
+    padding-top: 2.5rem;
+    font-size: 0.8rem;
+}
