@@ -134,7 +134,7 @@ a {
 
 }
 
-.container-box {
+.space-between {
     justify-content: space-between;
     
 }
@@ -166,7 +166,12 @@ a {
 .btn-partner {
     border: 0.1rem solid;
     padding: 0.3rem 0.5rem;
+    background-color: white;
+    
+}
 
+.border {
+    border: none;
 }
 /* 
  fine style partner */
@@ -205,4 +210,19 @@ a {
     color: #0061FF;
     
 
+}
+
+/* inizio style sponsor */
+
+
+.bg {
+    background-color: #b4d0e7;
+    padding-bottom: 5rem;
+}
+
+.title-business {
+    color: purple;
+    /* align-items: center; */
+    
+    
 }
