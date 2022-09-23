@@ -142,3 +142,27 @@ a {
     padding: 1rem;
    
 }
+
+.img-partner {
+    width: 100%;
+    
+}
+
+.container-img {
+    flex-basis: 60%;
+}
+
+.container-text {
+    flex-basis: 40%;
+    padding: 2rem;
+}
+
+.partner {
+    padding-bottom: 1.5rem;
+}
+
+.btn-partner {
+    border: 0.1rem solid;
+    padding: 0.3rem 0.5rem;
+
+}
