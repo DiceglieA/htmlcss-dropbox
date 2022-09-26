@@ -239,3 +239,45 @@ a {
     padding-bottom: 2rem;
 
 }
+
+/* style footer  */
+
+
+footer {
+    background-color: black;
+    margin-top: 5rem;
+    color: white;
+    font-size: 0.6rem;
+    line-height: 1.5rem;
+}
+
+.footer-list {
+    flex-basis: 19%;
+    gap: 1%;
+}
+
+.footer-title {
+    font-size: 1rem;
+    font-weight: bolder;
+    margin: 1rem 0;
+    padding-top: 1rem;
+
+}
+
+
+.footer-line {
+    border: 1px solid white;
+    width: 4rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    
+}
+
+.language {
+    color: grey;
+    
+}
+
+footer a {
+    color: white;
+}
