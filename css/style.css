@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Domine',serif;
 }
 
 header {
@@ -229,7 +232,10 @@ a {
 .container-sponsor {
     flex-wrap: wrap;
     flex-basis: 33.3%;
-    height: 350px;
+    /* height: 350px; */
+    height: calc('100vh / 3');
+    /* width: calc('100vw / 3'); */
+
      
 
 }
