@@ -115,13 +115,13 @@ a {
 
 
 .icon  {
-    border: #b4d0e7 solid 0.2rem;
+    border: lightgrey solid 0.2rem;
     border-bottom: none;
     text-align: center;
 }
 
 .plan {
-    border: #b4d0e7 solid 0.2rem;
+    border: lightgrey solid 0.2rem;
     padding: 1rem;
     height: 30rem;
 }
@@ -134,13 +134,19 @@ a {
 
 }
 
+.line{
+    border: 1px solid lightgray;
+    width: 4rem;
+    margin: 5px;
+}
+
 .space-between {
     justify-content: space-between;
     
 }
 
 .horizontal-plan {
-    border: #b4d0e7 solid 0.2rem;
+    border: lightgrey solid 0.2rem;
     padding: 1rem;
    
 }
