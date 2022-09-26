@@ -230,9 +230,18 @@ a {
     flex-wrap: wrap;
     flex-basis: 33.3%;
     height: 350px;
-    
-    
+     
 
+}
+
+.container-main {
+    padding: 2rem;
+    overflow: scroll;
+}
+
+.description {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .sponsor-tag  {
@@ -279,7 +288,9 @@ a {
     background-color: yellow;
 }
 
-
+.information {
+    padding-top: 1rem;
+}
 
 .bg {
     background-color: #b4d0e7;
@@ -366,7 +377,15 @@ footer a:hover {
     display: block;
 }
 
-.information {
-    padding-top: 1rem;
+
+
+nav a:hover {
+    text-decoration: underline
+}
+
+nav li:hover {
+    opacity: 0.5;
+    background-color: #b4d0e7;
+    border-bottom: 2px solid #0061FF;
 }
 
