@@ -370,10 +370,11 @@ footer a:hover {
     text-decoration: underline
 }
 
-.information:hover {
+.information {
     display: none;
 }
-.informate:hover {
+
+.faq:hover .information{
     display: block;
 }
 
