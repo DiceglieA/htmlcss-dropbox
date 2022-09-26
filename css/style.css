@@ -299,8 +299,8 @@ a {
     padding-bottom: 2rem;
 
 }
-/* 
-.information {
+
+/* .information {
     display: none;
 }
 
@@ -353,3 +353,20 @@ footer {
 footer a {
     color: white;
 }
+
+/* sezione hover */
+footer a:hover {
+    text-decoration: underline
+}
+
+.information:hover {
+    display: none;
+}
+.informate:hover {
+    display: block;
+}
+
+.information {
+    padding-top: 1rem;
+}
+
