@@ -102,7 +102,9 @@ a {
     font-size: 0.8rem;
 }
 
-
+.fatturazione {
+    margin-right: 3rem;
+}
 
 .card {
    /* flex-basis: 31.5%; */
@@ -227,6 +229,8 @@ a {
 .container-sponsor {
     flex-wrap: wrap;
     flex-basis: 33.3%;
+    height: 350px;
+    
     
 
 }
@@ -234,11 +238,16 @@ a {
 .sponsor-tag  {
     width: 50%;
     height: 50%;
+    
 }
 
 .img-tag {
-    width: 100%;
+    width: 50%;
+    height: 50%;
     filter: invert(1);
+    margin: 25%;
+    
+    
 
 }
 
