@@ -140,6 +140,10 @@ a {
     margin: 5px;
 }
 
+.blue {
+    color: #0061FF;
+}
+
 .space-between {
     justify-content: space-between;
     
@@ -219,6 +223,52 @@ a {
 }
 
 /* inizio style sponsor */
+
+.container-sponsor {
+    flex-wrap: wrap;
+    flex-basis: 33.3%;
+    
+
+}
+
+.sponsor-tag  {
+    width: 50%;
+    height: 50%;
+}
+
+.img-tag {
+    width: 100%;
+    filter: invert(1);
+
+}
+
+/* colori quadrati  */
+
+#col1 {
+    background-color: lightgreen;
+}
+#col2 {
+    background-color: rgb(139, 40, 40);
+}
+#col3 {
+    background-color: lightseagreen;
+}
+#col4 {
+    background-color: rgb(252, 71, 0);
+}
+#col5 {
+    background-color: red;
+}
+#col6 {
+    background-color: #b4d0e7;
+}
+#col7 {
+    background-color: blue;
+}
+#col8 {
+    background-color: yellow;
+}
+
 
 
 .bg {
