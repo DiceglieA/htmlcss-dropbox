@@ -230,5 +230,12 @@ a {
     color: purple;
     /* align-items: center; */
     
-    
+}
+
+/* style faq */
+
+.faq {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
 }
