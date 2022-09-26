@@ -239,6 +239,7 @@ a {
     width: 50%;
     height: 50%;
     
+    
 }
 
 .img-tag {
@@ -298,6 +299,18 @@ a {
     padding-bottom: 2rem;
 
 }
+/* 
+.information {
+    display: none;
+}
+
+.faq .informative:hover {
+    display: none;
+}
+
+.faq .information:hover {
+    display: block;
+} */
 
 /* style footer  */
 
